@@ -12,10 +12,10 @@ Aviation Accidents Analysis.
 ## Used tools and Requirments
 The project is accomplished using Python programing language.
 Used tools are:
-1.pandas.
-2.numpy. 
-3.pycountry.
-4.datetime. 
-5.[plotly.express](https://plotly.com/python/plotly-express/) for the visualization.
+1. pandas.
+2. numpy. 
+3. pycountry.
+4. datetime. 
+5. [plotly.express](https://plotly.com/python/plotly-express/) for the visualization.
 
 ## [Dataset](https://www.kaggle.com/datasets/ramjasmaurya/aviation-accidents-history1919-april-2022)
