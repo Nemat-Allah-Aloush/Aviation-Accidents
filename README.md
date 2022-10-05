@@ -6,7 +6,7 @@ Aviation Accidents Analysis.
 ## Index
 1. [Used tools and Requirments](#used-tools-and-requirments)
 2. [Dataset](#dataset)
-3. [About the Project]()
+3. [About the Project](#about-the-project)
 
 ---
 
