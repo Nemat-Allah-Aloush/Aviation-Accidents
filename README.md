@@ -1,6 +1,5 @@
 # Aviation Accidents 
 Aviation Accidents Analysis.
-
 ----
 
 ## Index
@@ -27,3 +26,5 @@ The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/ramjasmaury
 
 ## [About the Project](https://www.linkedin.com/feed/update/urn:li:ugcPost:6983223319277793280?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6983223319277793280%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 To read about the project, please feel free to check my [article](https://www.linkedin.com/feed/update/urn:li:ugcPost:6983223319277793280?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6983223319277793280%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29) on LinkedIn about this project.
+
+And you can also check the notebook on [Kaggle](https://www.kaggle.com/code/nemataloush/aviation-disasters-analysis?kernelSessionId=107347524)
